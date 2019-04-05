@@ -1,62 +1,57 @@
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <id>tag:127.0.0.1:19398,2016-04-04:/files/150F0D08-7BF9-894A-B8FC50242D6B7032/</id>
-  <title>Files</title>
-  <updated>2016-04-04T08:40:52Z</updated>
-  <author>
-    <name>Admin</name>
-  </author>
-  <entry>
-    <title>Chrysanthemum</title>
-    <id>urn:uuid:97398e73-b305-de45-8eae-7a37bcc071ab</id>
-    <updated>2016-04-04T07:41:20Z</updated>
-    <published>2016-04-04T07:41:20Z</published>
-    <category scheme="http://www.vizrt.com/types" term="image"/>
-    <category scheme="http://www.vizrt.com/types" term="asset"/>
-    <link href="http://127.0.0.1:19398/folder/150F0D08-7BF9-894A-B8FC50242D6B7032/" rel="up" type="application/atom+xml;type=feed"/>
-    <link href="http://127.0.0.1:19398/file/97398e73-b305-de45-8eae-7a37bcc071ab/150F0D08-7BF9-894A-B8FC50242D6B7032/" rel="self" type="application/atom+xml;type=feed"/>
-    <link href="http://127.0.0.1:19398/metadata/file/97398e73-b305-de45-8eae-7a37bcc071ab/" rel="describedby" type="application/vnd.vizrt.payload+xml"/>
-    <link href="http://127.0.0.1:19398/controlmodel/97398e73-b305-de45-8eae-7a37bcc071ab/" rel="controlmodel" type="application/vnd.vizrt.payload+xml"/>
-    <link href="http://127.0.0.1:19398/histories/97398e73-b305-de45-8eae-7a37bcc071ab/" rel="history" type="application/vnd.vizrt.payload+xml"/>
-    <link href="http://127.0.0.1:19398/addons/97398e73-b305-de45-8eae-7a37bcc071ab" rel="addon" type="application/atom+xml;type=feed"/>
-    <bgfx:image xmlns:bgfx="http://www.vizrt.com/2011/bgfx" uuid="&lt;97398e73-b305-de45-8eae-7a37bcc071ab&gt;"/>
-    <vosmt:media xmlns:vosmt="http://www.vizrt.com/opensearch/mediatype">image</vosmt:media>
-    <media:content url="http://127.0.0.1:19398/image/97398e73-b305-de45-8eae-7a37bcc071ab/" type="image/jpeg"/>
-    <media:thumbnail url="http://127.0.0.1:19398/thumbnail/97398e73-b305-de45-8eae-7a37bcc071ab?size=large" height="360" width="480"/>
-  </entry>
-  <entry>
-    <title>Desert</title>
-    <id>urn:uuid:730c0f95-5e2d-b24b-bb83-c7e4cd558dc3</id>
-    <updated>2016-04-04T07:41:20Z</updated>
-    <published>2016-04-04T07:41:20Z</published>
-    <category scheme="http://www.vizrt.com/types" term="image"/>
-    <category scheme="http://www.vizrt.com/types" term="asset"/>
-    <link href="http://127.0.0.1:19398/folder/150F0D08-7BF9-894A-B8FC50242D6B7032/" rel="up" type="application/atom+xml;type=feed"/>
-    <link href="http://127.0.0.1:19398/file/730c0f95-5e2d-b24b-bb83-c7e4cd558dc3/150F0D08-7BF9-894A-B8FC50242D6B7032/" rel="self" type="application/atom+xml;type=feed"/>
-    <link href="http://127.0.0.1:19398/metadata/file/730c0f95-5e2d-b24b-bb83-c7e4cd558dc3/" rel="describedby" type="application/vnd.vizrt.payload+xml"/>
-    <link href="http://127.0.0.1:19398/controlmodel/730c0f95-5e2d-b24b-bb83-c7e4cd558dc3/" rel="controlmodel" type="application/vnd.vizrt.payload+xml"/>
-    <link href="http://127.0.0.1:19398/histories/730c0f95-5e2d-b24b-bb83-c7e4cd558dc3/" rel="history" type="application/vnd.vizrt.payload+xml"/>
-    <link href="http://127.0.0.1:19398/addons/730c0f95-5e2d-b24b-bb83-c7e4cd558dc3" rel="addon" type="application/atom+xml;type=feed"/>
-    <bgfx:image xmlns:bgfx="http://www.vizrt.com/2011/bgfx" uuid="&lt;730c0f95-5e2d-b24b-bb83-c7e4cd558dc3&gt;"/>
-    <vosmt:media xmlns:vosmt="http://www.vizrt.com/opensearch/mediatype">image</vosmt:media>
-    <media:content url="http://127.0.0.1:19398/image/730c0f95-5e2d-b24b-bb83-c7e4cd558dc3/" type="image/jpeg"/>
-    <media:thumbnail url="http://127.0.0.1:19398/thumbnail/730c0f95-5e2d-b24b-bb83-c7e4cd558dc3?size=large" height="360" width="480"/>
-  </entry>
-  <entry>
-    <title>Koala</title>
-    <id>urn:uuid:eece6ea4-54d1-b54b-84f0-b57599547249</id>
-    <updated>2016-04-04T07:57:32Z</updated>
-    <published>2016-04-04T07:57:32Z</published>
-    <category scheme="http://www.vizrt.com/types" term="image"/>
-    <category scheme="http://www.vizrt.com/types" term="asset"/>
-    <link href="http://127.0.0.1:19398/folder/150F0D08-7BF9-894A-B8FC50242D6B7032/" rel="up" type="application/atom+xml;type=feed"/>
-    <link href="http://127.0.0.1:19398/file/eece6ea4-54d1-b54b-84f0-b57599547249/150F0D08-7BF9-894A-B8FC50242D6B7032/" rel="self" type="application/atom+xml;type=feed"/>
-    <link href="http://127.0.0.1:19398/metadata/file/eece6ea4-54d1-b54b-84f0-b57599547249/" rel="describedby" type="application/vnd.vizrt.payload+xml"/>
-    <link href="http://127.0.0.1:19398/controlmodel/eece6ea4-54d1-b54b-84f0-b57599547249/" rel="controlmodel" type="application/vnd.vizrt.payload+xml"/>
-    <link href="http://127.0.0.1:19398/histories/eece6ea4-54d1-b54b-84f0-b57599547249/" rel="history" type="application/vnd.vizrt.payload+xml"/>
-    <link href="http://127.0.0.1:19398/addons/eece6ea4-54d1-b54b-84f0-b57599547249" rel="addon" type="application/atom+xml;type=feed"/>
-    <bgfx:image xmlns:bgfx="http://www.vizrt.com/2011/bgfx" uuid="&lt;eece6ea4-54d1-b54b-84f0-b57599547249&gt;"/>
-    <vosmt:media xmlns:vosmt="http://www.vizrt.com/opensearch/mediatype">image</vosmt:media>
-    <media:content url="http://127.0.0.1:19398/image/eece6ea4-54d1-b54b-84f0-b57599547249/" type="image/jpeg"/>
-    <media:thumbnail url="http://127.0.0.1:19398/thumbnail/eece6ea4-54d1-b54b-84f0-b57599547249?size=large" height="360" width="480"/>
-  </entry>
-</feed>
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="myfile.xsl" ?>
+<bookstore specialty="novel">
+  <book style="autobiography">
+    <author>
+      <first-name>Joe</first-name>
+      <last-name>Bob</last-name>
+      <award>Trenton Literary Review Honorable Mention</award>
+    </author>
+    <price>12</price>
+  </book>
+  <book style="textbook">
+    <author>
+      <first-name>Mary</first-name>
+      <last-name>Bob</last-name>
+      <publication>Selected Short Stories of
+        <first-name>Mary</first-name>
+        <last-name>Bob</last-name>
+      </publication>
+    </author>
+    <editor>
+      <first-name>Britney</first-name>
+      <last-name>Bob</last-name>
+    </editor>
+    <price>55</price>
+  </book>
+  <magazine style="glossy" frequency="monthly">
+    <price>2.50</price>
+    <subscription price="24" per="year"/>
+  </magazine>
+  <book style="novel" id="myfave">
+    <author>
+      <first-name>Toni</first-name>
+      <last-name>Bob</last-name>
+      <degree from="Trenton U">B.A.</degree>
+      <degree from="Harvard">Ph.D.</degree>
+      <award>Pulitzer</award>
+      <publication>Still in Trenton</publication>
+      <publication>Trenton Forever</publication>
+    </author>
+    <price intl="Canada" exchange="0.7">6.50</price>
+    <excerpt>
+      <p>It was a dark and stormy night.</p>
+      <p>But then all nights in Trenton seem dark and
+      stormy to someone who has gone through what
+      <emph>I</emph> have.</p>
+      <definition-list>
+        <term>Trenton</term>
+        <definition>misery</definition>
+      </definition-list>
+    </excerpt>
+  </book>
+  <my:book xmlns:my="uri:mynamespace" style="leather" price="29.50">
+    <my:title>Who's Who in Trenton</my:title>
+    <my:author>Robert Bob</my:author>
+  </my:book>
+</bookstore>
